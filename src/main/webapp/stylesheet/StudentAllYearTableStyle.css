@@ -1,0 +1,33 @@
+body{
+    background: #f6fff8!important;
+}
+
+.antialiased{
+    margin-bottom: 50px;
+    max-height:200vh!important;   
+}
+
+.actionIcons i{
+
+    font-size: 24px;
+
+}
+
+
+.actionIcons .fa-pen-to-square{
+    color: #003300;
+}
+
+.actionIcons .fa-delete-left{
+    color: #660000;
+    margin-left: 5px;
+}
+
+
+.actionIcons .fa-pen-to-square:hover{
+    color: #006600;
+}
+
+.actionIcons .fa-delete-left:hover{
+    color: #ff0000;
+}
